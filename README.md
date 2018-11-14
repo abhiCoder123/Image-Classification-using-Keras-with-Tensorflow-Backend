@@ -43,8 +43,8 @@ dataset/
  ```
 We will be using 4000 images for each of the classes to train the Convolutional Neural Network. Additionally we will use 1000 images each for validation and to evaluate our model.
 
-#### Execute
-Navigate to the directory where you have your **data** folder and run *classify.py*
+#### Execution
+Navigate to the directory where you have your **dataset** folder and run *cnn.py*
 ```
 python cnn.py
 ```
